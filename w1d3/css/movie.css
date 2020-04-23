@@ -52,7 +52,7 @@ header {
       
 }
 #review-header {
-    background-image: url('../../images/rbg.png');
+    background-image: url('../images/rbg.png');
     height: 83px;
     width: 100%;
     font-size: 48pt;
