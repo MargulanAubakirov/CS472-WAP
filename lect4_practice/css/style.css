@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    /* background-color: darkgray; */
+    /* width: 300px; */
+    flex-direction: raw;
+    
+}
+div{
+    margin: 100 px
+    border 100px;
+    padding: 10px;
+}
+.name{
+    font-weight: bold;
+    text-decoration: underline;
+}
