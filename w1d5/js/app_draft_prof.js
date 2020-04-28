@@ -226,3 +226,5 @@ function findLongestWord(array) {
 }
 const array = ["doma", "adom", "banana"];
 console.log(findLongestWord(array));
+
+
