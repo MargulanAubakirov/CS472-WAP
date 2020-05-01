@@ -29,4 +29,5 @@ function printDetails() {
             alert(label + ': ' + arr[label]);
         }
     }
+    x=1;
     

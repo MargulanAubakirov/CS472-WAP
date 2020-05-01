@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <!-- inline js -->
+    <!-- <button onclick = "alert('Hello');">OK</button> -->
+    <!-- embedded js -->
+    <button onclick="showAlert()">HI</button>
+    <button onclick="showAlert1()">HEY</button>
+    <input type="text" id="name">
+    <input type="button" value="Agree" onclick="find()">
+
+    <div class="new" id = "display"></div>
+
+
+</body>
+<script>
+    function showAlert() {
+        alert("Good-bye");
+    }
+    function showAlert1() {
+        console.log("Good day");
+    }
+    function find() {
+        const item = document.getElementById("name");// retrieve object that have ID "name"
+        console.log(item.tagName);//print on console tagname of object
+        alert(item.tagName);//popUp tagname of object
+        item.value = item.value + "A";//add to value that in input letter "A"
+        const item2 = document.getElementById("display");
+        item2.innerHTML = item.value;
+        
+    }
+
+
+
+</script>
+
+</html>

@@ -228,3 +228,4 @@ console.log("printFibo(2, 0, 1) "); printFibo(2, 0, 1);
 console.log("printFibo(3, 0, 1) "); printFibo(3, 0, 1);
 console.log("printFibo(6, 0, 1) "); printFibo(6, 0, 1);
 console.log("printFibo(10, 0, 1) "); printFibo(10, 0, 1);
+
