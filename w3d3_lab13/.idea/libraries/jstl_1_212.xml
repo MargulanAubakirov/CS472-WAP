@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jstl-1.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CS472-WAP-master/CS472-WAP-master/w3d4-jsp-custom-tag/out/artifacts/custom_tag_war_exploded/WEB-INF/lib/jstl-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

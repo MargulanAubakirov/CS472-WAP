@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="w3d4-jsp-custom-tag1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/w3d4_jsp_custom_tag1_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="w3d4-jsp-custom-tag1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="w3d4-jsp-custom-tag1/web/Web2" />
+      <element id="javaee-facet-resources" facet="w3d4-jsp-custom-tag1/web/Web" />
+    </root>
+  </artifact>
+</component>
