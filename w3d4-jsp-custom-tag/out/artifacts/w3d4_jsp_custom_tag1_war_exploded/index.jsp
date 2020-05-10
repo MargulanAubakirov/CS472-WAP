@@ -42,7 +42,7 @@
       <p>Using <span class="font-italic">&ltct:currentDateTime&gt</span> without any attributes, now date and time is displayed as: <ct:currentDateTime/></p>
           </div>
 
-    <p>For more details <a href="" class="card-link">check here</a> to see more details of the implementation</p>
+    <p>For more details <a href="https://github.com/MargulanAubakirov/CS472-WAP/tree/master/w3d4-jsp-custom-tag" class="card-link">check here</a> to see more details of the implementation</p>
   </div>
 </div>
 </p>
